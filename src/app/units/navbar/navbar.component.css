@@ -1,0 +1,21 @@
+ /*.nav-link{
+    color: blue;
+} */
+#hm{
+    margin-left: 50px;  
+    font-size:larger;  
+   }
+   .lgo{
+    margin-right: 20px;
+    border: #04AA6D;
+    border-radius: 50px;
+}
+#art{
+    color: #04AA6D;
+    font-family:'Times New Roman', Times, serif;
+    font-size:xx-large;
+    font: weight 300px;
+    margin-left:10px;
+}
+  
+
