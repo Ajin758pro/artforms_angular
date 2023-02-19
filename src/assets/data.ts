@@ -94,7 +94,7 @@ export const data=[
         img:'Manipuri-Dance-768x483.jpg',
         description:'A recite-and-dance artform. ',
         detail:'Earlier, the name of this dance was Jogai (circular movement). The themes included under this dance are Vaishnavism, Ras Lila, Shaktism, Shaivism, and on the sylvan deities called Umang Lai. This dance form is performed at Hindu festivals and special occasions like marriage.',
-        orgin:'Origin: Manipur <br>',
+        orgin:'Origin: Manipur ',
         uniquefactor:'Unique factor: Team performance with unique costumes, major emphasis on upper body movements. ',
         keyexponents:'Key exponents: Guru Bipin Singh, Darshana Jhaveri, Nayana, Ranjana and Suverna, Charu Mathur and Devyani Chalia.',
     },

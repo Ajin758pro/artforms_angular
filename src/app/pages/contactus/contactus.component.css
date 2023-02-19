@@ -11,7 +11,7 @@
 }
 
 input[type=text]:focus, input[type=password]:focus {
-  background-color: #1d211e;
+  background-color: #eef3bf;
   outline: none;
 }
 
@@ -78,5 +78,13 @@ button:hover {
 }
 #mar{
   margin-top:50px;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
  }
+ .bg{
+  background-image: url('../../../assets/pics/1391_natraj-wallpaper-01.jpg');
+  background-size: cover;
+}
+.align{
+ margin-right: 600px;
+ margin-left: -50px;
+}
